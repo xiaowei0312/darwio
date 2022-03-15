@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T03:40:04.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6klcoJM98p2kh296r_O4" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T03:41:46.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="PRQ5WIhtfic4oS5k0nQk" version="17.1.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,8 +10,11 @@
         <mxCell id="77e6c97f196da883-2" value="用户" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="30" width="290" height="720" as="geometry" />
         </mxCell>
+        <mxCell id="97bVz2lB2gFFwHXA5-Iy-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="77e6c97f196da883-2" source="97bVz2lB2gFFwHXA5-Iy-2" target="97bVz2lB2gFFwHXA5-Iy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-2" value="进入APP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="90" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="97bVz2lB2gFFwHXA5-Iy-3" target="97bVz2lB2gFFwHXA5-Iy-8">
           <mxGeometry relative="1" as="geometry" />
@@ -53,37 +56,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-10" value="收到预约申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="121" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="97bVz2lB2gFFwHXA5-Iy-11" target="97bVz2lB2gFFwHXA5-Iy-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-11" value="点击分配，弹出笼位状态图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="121" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-3" source="97bVz2lB2gFFwHXA5-Iy-12" target="97bVz2lB2gFFwHXA5-Iy-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-12" value="选择空闲笼位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="127" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="96" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="97bVz2lB2gFFwHXA5-Iy-17" target="97bVz2lB2gFFwHXA5-Iy-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-17" value="点击分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="127" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="96" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-18" value="通知用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="127" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="96" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-38" value="收到撤笼申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="121" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-40" value="自动结算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="121" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-41" value="导出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="121" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-3" source="97bVz2lB2gFFwHXA5-Iy-38" target="97bVz2lB2gFFwHXA5-Iy-40">
           <mxGeometry relative="1" as="geometry" />
@@ -106,8 +109,8 @@
             <mxPoint x="240" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="97bVz2lB2gFFwHXA5-Iy-64" value="1.收费依据待定：按品系、笼位、数量、特殊要求等&lt;br style=&quot;font-size: 20px;&quot;&gt;2. 动物饲养过程中死了怎么算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="170" width="410" height="210" as="geometry" />
+        <mxCell id="97bVz2lB2gFFwHXA5-Iy-64" value="1.收费依据待定：按品系、笼位、数量、特殊要求等&lt;br style=&quot;font-size: 20px&quot;&gt;2. 动物饲养过程中死了怎么算&lt;br&gt;3. 对于有特殊饲养要求的用户，管理员可线下联系，手动修改单价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="300" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
