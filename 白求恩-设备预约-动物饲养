@@ -1,47 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T03:39:43.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9DI1Ja2z9dvpJl-3mFBc" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T03:40:04.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6klcoJM98p2kh296r_O4" version="17.1.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="白求恩医院动物饲养" style="swimlane;html=1;childLayout=stackLayout;startSize=30;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="40" width="560" height="750" as="geometry" />
+          <mxGeometry x="70" y="40" width="570" height="750" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="用户" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="30" width="290" height="720" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-2" value="进入APP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="20" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="97bVz2lB2gFFwHXA5-Iy-3" target="97bVz2lB2gFFwHXA5-Iy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-3" value="输入预约信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="97bVz2lB2gFFwHXA5-Iy-8" target="97bVz2lB2gFFwHXA5-Iy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-8" value="提交申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="23" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="93" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-9" value="界面显示待审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="23" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="93" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="97bVz2lB2gFFwHXA5-Iy-19" target="97bVz2lB2gFFwHXA5-Iy-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-19" value="界面显示审核结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="23" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="93" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-21" value="办理入住" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="23" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="93" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-37" value="预约撤笼" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="23" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="93" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97bVz2lB2gFFwHXA5-Iy-7" value="&lt;span&gt;动物系、&lt;br&gt;数量(分性别)、&lt;br&gt;笼位数量、&lt;br&gt;饲养周期、&lt;br&gt;备注&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="-40" y="140" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="97bVz2lB2gFFwHXA5-Iy-20" value="成功：用户界面显示管理员分配的笼位位置" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="-30" y="380" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="动物饲养管理员" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="290" y="30" width="270" height="720" as="geometry" />
+          <mxGeometry x="290" y="30" width="280" height="720" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-3" source="97bVz2lB2gFFwHXA5-Iy-10" target="97bVz2lB2gFFwHXA5-Iy-11">
           <mxGeometry relative="1" as="geometry" />
@@ -99,12 +105,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="620" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="97bVz2lB2gFFwHXA5-Iy-7" value="&lt;span&gt;动物系、&lt;br&gt;数量(分性别)、&lt;br&gt;笼位数量、&lt;br&gt;饲养周期、&lt;br&gt;备注&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry y="210" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="97bVz2lB2gFFwHXA5-Iy-20" value="成功：用户界面显示管理员分配的笼位位置" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry y="510" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="97bVz2lB2gFFwHXA5-Iy-64" value="1.收费依据待定：按品系、笼位、数量、特殊要求等&lt;br style=&quot;font-size: 20px;&quot;&gt;2. 动物饲养过程中死了怎么算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="170" width="410" height="210" as="geometry" />
