@@ -1,62 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T15:17:58.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="PNtlaqLrW_6W1cWmXeWi" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T15:20:41.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="3siu9G6H0RKBhfDn9Opb" version="17.4.5" type="github">
   <diagram id="RDCqQ6Z4AvfxPIHuZx-x" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-1" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="70" height="120" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-1" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-2" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="70" height="200" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-2" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="40" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-3" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="80" y="520" width="70" height="160" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-3" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-4" value="用户前台竞拍系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-4" value="用户前台竞拍系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-5" value="管理员后台管理系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-5" value="管理员后台管理系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-8" value="订单服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-8" value="订单服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-9" value="派送服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-9" value="派送服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-10" value="拍品信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-10" value="拍品信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-11" value="订单信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-11" value="订单信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-12" value="配送信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-12" value="配送信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-13" value="服务网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-13" value="服务网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-14" value="统一认证和授权管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-14" value="统一认证和授权管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-15" value="拍品展示/推荐&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-15" value="拍品展示/推荐&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-16" value="竞拍服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-16" value="竞拍服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-18" value="用户认证及授权&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-18" value="用户认证及授权&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-19" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-19" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-21" value="其他服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-21" value="其他服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtWM5_snHsbxjdmC7rAL-24" value="其他信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-24" value="其他信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DtWM5_snHsbxjdmC7rAL-25" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rotation=0;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
