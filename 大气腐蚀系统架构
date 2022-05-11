@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T08:21:18.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="4Hf1fMS8IgUdIQ-c1ZPQ" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T08:26:51.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="ZAqzupPOxoehCLWlqEvJ" version="18.0.2" type="github">
   <diagram id="nmuAu2t5nlZzE-iGwHM2" name="Page-1">
     <mxGraphModel dx="1422" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,8 +81,8 @@
         <mxCell id="tCWabYezLvQP4aEzypyC-33" value="服务数量依据设备情况水平扩展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="310" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCWabYezLvQP4aEzypyC-34" value="数据采集及存储服务&lt;br&gt;1. 可靠连接&lt;br&gt;2.安全认证&lt;br&gt;3. 通讯加密&lt;br&gt;4. 数据上报&lt;br&gt;5. 数据存储&lt;br&gt;6. 指令下发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="10" width="520" height="120" as="geometry" />
+        <mxCell id="tCWabYezLvQP4aEzypyC-34" value="&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于平台层数据，进行呈现、统计分析&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 系统管理/配置&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 专题展示&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 数据分析&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. 终端监控&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. 站点管理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6. 通讯日志&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
