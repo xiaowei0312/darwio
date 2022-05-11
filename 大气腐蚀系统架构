@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T23:39:56.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="AteazMHgLKhZkDLew_8v" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T23:40:25.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="eRGQLTo3PWeiDAhnAZU5" version="18.0.2" type="github">
   <diagram id="nmuAu2t5nlZzE-iGwHM2" name="Page-1">
     <mxGraphModel dx="1422" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,10 +103,10 @@
           <mxGeometry x="640" y="-80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1250" width="530" height="450" as="geometry" />
+          <mxGeometry x="120" y="1330" width="530" height="370" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-6" value="平台层&lt;br&gt;&lt;span style=&quot;&quot;&gt;数据采集与存储服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5IvDB9s413t5xWmcLq59-7" target="5IvDB9s413t5xWmcLq59-5">
           <mxGeometry relative="1" as="geometry" />
@@ -144,8 +144,8 @@
         <mxCell id="5IvDB9s413t5xWmcLq59-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="5IvDB9s413t5xWmcLq59-22" target="5IvDB9s413t5xWmcLq59-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5IvDB9s413t5xWmcLq59-22" value="平台服务集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1480" width="120" height="60" as="geometry" />
+        <mxCell id="5IvDB9s413t5xWmcLq59-22" value="平台服务集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="5IvDB9s413t5xWmcLq59-23" target="5IvDB9s413t5xWmcLq59-26">
           <mxGeometry relative="1" as="geometry" />
@@ -154,13 +154,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-23" value="主库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1480" width="60" height="60" as="geometry" />
+          <mxGeometry x="390" y="1480" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="5IvDB9s413t5xWmcLq59-26" target="5IvDB9s413t5xWmcLq59-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-26" value="从库集群" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1480" width="60" height="60" as="geometry" />
+          <mxGeometry x="510" y="1480" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-33" value="腐蚀传感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1910" width="120" height="60" as="geometry" />
@@ -186,7 +186,7 @@
         <mxCell id="5IvDB9s413t5xWmcLq59-44" value="数据读取API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1350" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5IvDB9s413t5xWmcLq59-45" value="设备升级API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="5IvDB9s413t5xWmcLq59-45" value="设备升级API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="400" y="1410" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-46" value="通讯日志查询API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
