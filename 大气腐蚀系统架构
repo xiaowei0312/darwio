@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T23:52:16.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="78za4Br5MKlaxg3niKe5" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T00:20:34.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="CmNTiL279GscrU0J4XJy" version="18.0.2" type="github">
   <diagram id="nmuAu2t5nlZzE-iGwHM2" name="Page-1">
     <mxGraphModel dx="1422" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
           <mxGeometry x="120" y="1800" width="680" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-11" value="支持多种物联协议：MQTT / IACD Special Modbus / Modbus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="1740" width="350" height="20" as="geometry" />
+          <mxGeometry x="284" y="1740" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-15" value="可靠连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1590" width="110" height="40" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry x="670" y="1180" width="70" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-67" value="平台层通过多种协议向应用层提供服务&lt;br&gt;Restful API / MessageQueue / Websocket / RPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="1273" width="290" height="30" as="geometry" />
+          <mxGeometry x="316" y="1273" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5IvDB9s413t5xWmcLq59-72" value="感知层&lt;br&gt;&lt;span style=&quot;&quot;&gt;传感采集与数据传输&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="1830" width="120" height="60" as="geometry" />
