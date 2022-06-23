@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T06:33:05.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="aFpFZ1v2d_pLAxPY0Hm_" type="github"><diagram id="N5HZAhDvbmXsNZgYximB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-23T07:17:23.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="at8uua_npIMOMljazoXc" version="20.0.3" type="github">
+  <diagram id="N5HZAhDvbmXsNZgYximB" name="Page-1">
+    <mxGraphModel dx="1550" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="259_dIZZLjSzqOY-IIRj-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-880" width="710" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="259_dIZZLjSzqOY-IIRj-2" value="用户" style="swimlane;startSize=20;" vertex="1" parent="259_dIZZLjSzqOY-IIRj-1">
+          <mxGeometry y="20" width="210" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="259_dIZZLjSzqOY-IIRj-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="259_dIZZLjSzqOY-IIRj-2">
+          <mxGeometry x="55" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="259_dIZZLjSzqOY-IIRj-8" value="微信扫码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="259_dIZZLjSzqOY-IIRj-2">
+          <mxGeometry x="45" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="259_dIZZLjSzqOY-IIRj-11" value="进入设备详情页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="259_dIZZLjSzqOY-IIRj-2">
+          <mxGeometry x="45" y="276" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="259_dIZZLjSzqOY-IIRj-12" value="点击预约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="259_dIZZLjSzqOY-IIRj-2">
+          <mxGeometry x="45" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="259_dIZZLjSzqOY-IIRj-3" value="控制终端" style="swimlane;startSize=20;" vertex="1" parent="259_dIZZLjSzqOY-IIRj-1">
+          <mxGeometry x="210" y="20" width="260" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="259_dIZZLjSzqOY-IIRj-4" value="服务端" style="swimlane;startSize=20;" vertex="1" parent="259_dIZZLjSzqOY-IIRj-1">
+          <mxGeometry x="470" y="20" width="240" height="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
