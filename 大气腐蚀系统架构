@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T08:57:55.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Dx9KcX6WCksA0tg9Bpg5" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-15T09:04:43.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5iLDyBFLx2uWJPG77o86" version="20.2.3" type="github" pages="2">
   <diagram id="nmuAu2t5nlZzE-iGwHM2" name="Page-1">
     <mxGraphModel dx="1422" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -441,7 +441,7 @@
         <mxCell id="7-xsenk8Lym3xIg0JSHo-55" value="服务数量依据设备情况水平扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-47">
           <mxGeometry x="379" y="138" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-xsenk8Lym3xIg0JSHo-56" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;平台层&lt;/b&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;腐蚀污秽数据采集与控制系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#E1D5E7;fillColor=#e1d5e7;gradientColor=none;fontSize=13;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-47">
+        <mxCell id="7-xsenk8Lym3xIg0JSHo-56" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;平台层&lt;/b&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;大气环境数据采集与控制系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#E1D5E7;fillColor=#e1d5e7;gradientColor=none;fontSize=13;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-47">
           <mxGeometry x="10" y="80" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7-xsenk8Lym3xIg0JSHo-57" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;rounded=1;fontSize=13;strokeColor=#DAE8FC;fillColor=#DAE8FC;gradientColor=none;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-47">
@@ -465,14 +465,20 @@
         <mxCell id="7-xsenk8Lym3xIg0JSHo-63" value="&lt;b&gt;感知网络层&lt;/b&gt;&lt;br&gt;传感采集与传输" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
           <mxGeometry x="5" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-xsenk8Lym3xIg0JSHo-64" value="腐蚀设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
-          <mxGeometry x="160" y="15" width="100" height="50" as="geometry" />
+        <mxCell id="7-xsenk8Lym3xIg0JSHo-64" value="恶臭监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
+          <mxGeometry x="139" y="15" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7-xsenk8Lym3xIg0JSHo-65" value="污秽设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
-          <mxGeometry x="380" y="15" width="100" height="50" as="geometry" />
+        <mxCell id="7-xsenk8Lym3xIg0JSHo-65" value="非甲烷总烃监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
+          <mxGeometry x="253" y="15" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7-xsenk8Lym3xIg0JSHo-66" value="其他设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
-          <mxGeometry x="590" y="15" width="100" height="50" as="geometry" />
+        <mxCell id="7-xsenk8Lym3xIg0JSHo-66" value="苯系物监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
+          <mxGeometry x="369" y="15" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7-xsenk8Lym3xIg0JSHo-80" value="空气质量检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
+          <mxGeometry x="479" y="15" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7-xsenk8Lym3xIg0JSHo-81" value="地下水检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7-xsenk8Lym3xIg0JSHo-61">
+          <mxGeometry x="599" y="15" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7-xsenk8Lym3xIg0JSHo-67" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="61" y="52" width="720" height="110" as="geometry" />
